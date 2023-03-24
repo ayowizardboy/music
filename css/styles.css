@@ -1,0 +1,181 @@
+/* introduction */
+@media (max-width:991px) {
+  .intro-image-words {
+    position: relative;
+    text-align: center;
+    padding: 4% 4%;
+    margin-bottom: 30%;
+  }
+
+  #introduction {
+    text-align: center;
+  }
+
+  .intro-image {
+    text-align: center;
+    left: 40%;
+    margin-top: 10%;
+  }
+
+  .intro-imaged {
+    height: 100%;
+  }
+}
+
+.brandimage {
+  height: 70px;
+}
+
+.intro-image {
+  width: 25%;
+  position: absolute;
+  right: 14%;
+}
+
+#introduction {
+  text-align: center;
+  background-color: #fff;
+  padding: 5% 15%;
+}
+
+.container-fluid {
+  background-color: #66347F;
+}
+
+.intro-welcome {
+  color: black;
+}
+
+.welcomenote {
+  margin: 50px;
+  font-family: 'Kanit', sans-serif;
+  color: white;
+}
+
+.intro-image-words {
+  background-color: #E11299;
+}
+
+/* features */
+#features {
+  padding: 5% 15%;
+  text-align: center;
+}
+
+.features-icon {
+  color: purple;
+}
+
+.featureh3 {
+  color: red;
+  font-family: 'Kanit', sans-serif;
+}
+
+.featureparagraph {
+  color: purple;
+  font-family: Raleway;
+}
+
+.carousel-image {
+  border-radius: 50px;
+  width: 80%;
+}
+
+#testimonials {
+  padding: 5% 15% 1%;
+  text-align: center;
+  background-color: purple;
+}
+
+.carousel-control {
+  padding: 60px;
+}
+
+.testimonyh2 {
+  color: #fff;
+  font-family: 'Kanit', sans-serif;
+}
+
+.press-imagess {
+  width: 5%;
+  margin: 20px 20px 50px;
+  margin-top: 10%;
+}
+
+#realeasedmusics {
+  text-align: center;
+  padding: 5% 15%;
+  font-family: 'Kanit', sans-serif;
+}
+
+.ghettodreams-image {
+  width: 35%;
+}
+
+.dontgo-image {
+  width: 35%;
+}
+
+.oyo-image {
+  width: 35%;
+}
+
+.releasedmusic-h2 {
+  color: #66347F;
+  font-family: 'Kanit', sans-serif;
+}
+
+.releasedmusic-p {
+  color: red;
+}
+
+.listen-h3 {
+  color: #66347F;
+}
+
+#biography {
+  padding: 5% 15%;
+  background-color: #E11299;
+  text-align: center;
+  font-family: 'Kanit', sans-serif;
+  margin: 50px;
+}
+
+.biographyh3 {
+  color: #fff;
+}
+
+.biography-p {
+  color: #ffff;
+}
+
+#assistance {
+  text-align: center;
+  font-family: 'Kanit', sans-serif;
+  padding: 3% 15%;
+  color: #66347F;
+  margin: 80px;
+}
+
+.assist-h5 {
+  color: red;
+}
+
+.assist-p {
+  color: black;
+}
+
+.support-image {
+  width: 85%;
+  border-radius: 100%;
+}
+
+#footer {
+  text-align: center;
+  background-color: #E11299;
+  padding: 2% 3%;
+}
+
+.footstyle {
+  margin: 2%;
+}
